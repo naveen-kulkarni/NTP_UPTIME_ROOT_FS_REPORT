@@ -1,0 +1,2 @@
+# NTP_UPTIME_ROOT_FS_REPORT
+Scripts for NTP UPTIME and ROOT FS.
